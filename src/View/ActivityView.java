@@ -6,7 +6,6 @@ import java.awt.GridBagLayout;
 import javax.swing.JFrame;
 
 import Controller.ActivityController;
-import Controller.SQL;
 import Main.User;
 import Model.ActivityModel;
 

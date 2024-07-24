@@ -3,8 +3,6 @@ package Model;
 import java.util.ArrayList;
 import java.util.List;
 
-import Controller.SQL;
-
 public class Order 
 {
 	public Integer orderID;

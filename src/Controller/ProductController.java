@@ -4,17 +4,11 @@ import java.awt.Color;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import java.util.ArrayList;
-
-import javax.sound.midi.MetaMessage;
-import javax.swing.JTable;
 import javax.swing.SwingUtilities;
 import javax.swing.table.DefaultTableModel;
-import javax.swing.table.TableModel;
 
 import Model.ProductModel;
 import View.ProductView;
-import Controller.SQL;
 
 public class ProductController {
     

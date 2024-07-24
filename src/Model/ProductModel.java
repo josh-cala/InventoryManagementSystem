@@ -1,25 +1,14 @@
 package Model;
 
-import java.awt.Component;
 import java.awt.Container;
-import java.awt.Dimension;
-import java.awt.Label;
-import java.text.NumberFormat;
-import java.text.ParseException;
 
 import javax.swing.JButton;
 import javax.swing.JFormattedTextField;
 import javax.swing.JLabel;
 import javax.swing.JPanel;
-import javax.swing.JSpinner;
 import javax.swing.JTable;
 import javax.swing.JTextField;
-import javax.swing.JSpinner.DefaultEditor;
-import javax.swing.text.DocumentFilter;
-import javax.swing.text.MaskFormatter;
-import javax.xml.parsers.DocumentBuilder;
 
-import Controller.SQL;
 import View.ProductView;
 
 public class ProductModel {

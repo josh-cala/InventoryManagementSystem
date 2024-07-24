@@ -1,15 +1,12 @@
 package View;
 
 import java.awt.BorderLayout;
-import java.awt.FlowLayout;
 import java.awt.GridBagLayout;
-import java.util.concurrent.Flow;
 
 import javax.swing.JFrame;
 
 import Controller.ProductController;
 import Model.ProductModel;
-import View.Grid;
 
 public class ProductView extends JFrame {
 

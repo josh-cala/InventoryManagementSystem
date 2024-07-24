@@ -11,7 +11,6 @@ import java.sql.Connection;
 import java.util.Date;
 import java.sql.DriverManager;
 import java.sql.ResultSet;
-import java.sql.ResultSetMetaData;
 import java.sql.SQLException;
 
 public class SQL 

@@ -3,8 +3,6 @@ package Controller;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import javax.swing.SwingUtilities;
-
 import Model.UpdateModel;
 import View.UpdateView;
 

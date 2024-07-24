@@ -1,11 +1,6 @@
 package Main;
 
-import javax.swing.JFrame;
-
-import Controller.SQL;
-import View.ActivityView;
 import View.LoginView;
-import View.MainView;
 
 public class Main 
 {
